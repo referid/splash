@@ -1,0 +1,28 @@
+#vimeo_embed {
+  padding-top: 20px;
+}
+/* custom style overrides for mailchimp signup */
+#mc_embed_signup {
+  width: 250px;
+  padding-top: 20px;
+}
+
+#mc-embedded-subscribe-form {
+  margin-top: -12px;
+}
+
+.mc-field-group {
+  width: 250px;
+}
+
+#mc_embed_signup input[type="text"] {
+  width:180px;
+  border:1px solid #898a8b;
+  color:#aeb8bb;
+  font-family:Helvetica,Arial,Verdana,sans-serif;
+  background:url(images/newsletter-icon.png) 6px 6px no-repeat;
+  padding-left:40px;
+  padding-top:8px;
+  padding-bottom:8px;
+  font-size:12px;
+}
