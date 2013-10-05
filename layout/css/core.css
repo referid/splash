@@ -1,0 +1,51 @@
+/*-- general formatting --*/
+
+body {
+    margin:10px auto 10px auto;
+    font:14px/1.6 Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    color:#34302D;
+    font-size:small;
+}
+
+
+h1, h2, h3, h4, h5, th {
+    font-family:Arial, Verdana;
+    margin:10px 10px 10px 10px;
+}
+
+ul {
+    list-style-type:none;
+    margin:10px 10px 10px 10px;
+    padding:0;
+    overflow:hidden;
+}
+
+
+
+#main {
+    width:90%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bar-right {
+    width:70%;
+}
+
+.bar-left {
+    width:30%;
+    float:left;
+}
+
+
+.clear {
+    clear:both;
+}
+
+/*-- Banner --*/
+.navmenu {
+    display:inline;
+}
